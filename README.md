@@ -1,14 +1,75 @@
 <h1 align="center">Hi 👋, I'm Ruben Shankar</h1>
-<h3 align="center">Aspiring Java Full Stack Developer experience in building web apps using SpringBoot,PostgreSQL,thymeleaf.Keen learner focused on clean code,backend development and scalable web solutions</h3>
+<h3 align="center">Aspiring Java Full Stack Developer | Passionate about building scalable web apps</h3>
 
-- 🌱 I’m currently learning **Java fullStack**
-
-- 📫 How to reach me **rubenshankar2075@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge" alt="Learning Badge">
+  <img src="https://img.shields.io/badge/Tech-Java-red?style=for-the-badge" alt="Java Badge">
+  <img src="https://img.shields.io/badge/Tech-SpringBoot-brightgreen?style=for-the-badge" alt="SpringBoot Badge">
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-blue?style=for-the-badge" alt="PostgreSQL Badge">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I'm an aspiring **Java Full Stack Developer** from India with experience in building web applications using **Spring Boot, Thymeleaf, and PostgreSQL**. I’m passionate about writing **clean, maintainable code** and exploring **backend development**.  
+
+- 🌱 Currently learning **Advanced Java, Spring Boot, Microservices**  
+- 💻 Interested in **Full Stack Development, REST APIs, and Scalable Web Solutions**  
+- 🎯 Focused on **clean code, best practices, and continuous learning**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java | SQL | HTML | CSS | JavaScript  
+
+**Backend:**  
+Spring Boot | Thymeleaf | REST APIs  
+
+**Database:**  
+PostgreSQL,mySQL 
+
+**Tools & IDEs:**  
+IntelliJ IDEA | Git | GitHub | Maven | Postman  
+
+---
+
+## 🚀 Projects
+
+Here are some of my projects:
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Hospital Management System** | Web app for managing hospital data | Java, Spring Boot, Thymeleaf, PostgreSQL | [Repo](#) |
+| **Fitness tracking app** | REST API for an fitness tracking app | Java, Spring Boot, PostgreSQL | [Fitness App](#) |
+| **Diabetic Prediction** | Simple diabetic prediction app  | Machine Learning, Html,CSS<JavaScript | [Repo](#) |
+
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RubenShankar&show_icons=true&theme=radical" alt="Ruben's GitHub Stats" />
+</p>
+
+---
+
+
+
+
+## ⚡ Fun Facts About Me
+
+- ☕ Coffee fuels my coding sessions  
+- 🌱 Always exploring new frameworks, tools, and libraries  
+- 🎮 Passionate about gaming in my free time  
+- 🎤🎸 Can sing and play musical instruments  
+- 💪 Enjoy fitness and maintaining a healthy lifestyle  
+- 🤔 Always curious to learn new technologies  
+- 🚀 Motivated to build scalable and clean web applications
+
+)  
 
