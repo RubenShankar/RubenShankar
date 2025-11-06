@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Shankar</h1>
-<h3 align="center">A passionate and aspiring fullstack developer from India</h3>
+<h3 align="center">Aspiring Java Full Stack Developer experience in building web apps using SpringBoot,PostgreSQL,thymeleaf.Keen learner focused on clean code,backend development and scalable web solutions</h3>
 
 - 🌱 I’m currently learning **Java fullStack**
 
