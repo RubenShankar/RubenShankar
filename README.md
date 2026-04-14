@@ -1,75 +1,66 @@
 <h1 align="center">Hi 👋, I'm Ruben Shankar</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Passionate about building scalable web apps</h3>
+<h3 align="center">Aspiring Backend Developer | Node.js & Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge" alt="Learning Badge">
-  <img src="https://img.shields.io/badge/Tech-Java-red?style=for-the-badge" alt="Java Badge">
-  <img src="https://img.shields.io/badge/Tech-SpringBoot-brightgreen?style=for-the-badge" alt="SpringBoot Badge">
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-blue?style=for-the-badge" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-blue?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Java Full Stack Developer** from India with experience in building web applications using **Spring Boot, Thymeleaf, and PostgreSQL**. I’m passionate about writing **clean, maintainable code** and exploring **backend development**.  
+I am an aspiring **Backend Developer** with a strong foundation in **Java** and a current focus on **Node.js backend development**.
 
-- 🌱 Currently learning **Advanced Java, Spring Boot, Microservices**  
-- 💻 Interested in **Full Stack Development, REST APIs, and Scalable Web Solutions**  
-- 🎯 Focused on **clean code, best practices, and continuous learning**
+- 🌱 Currently learning Node.js, Express, and PostgreSQL  
+- 💻 Strong foundation in Java and OOP concepts  
+- 🎯 Interested in backend systems, APIs, and databases  
+- 🚀 Building real-world backend projects to improve my skills  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Java | SQL | HTML | CSS | JavaScript  
+Java | JavaScript | SQL | HTML | CSS  
 
 **Backend:**  
-Spring Boot | Thymeleaf | REST APIs  
+Node.js | Express.js | Java (Core + OOP) | REST APIs | JWT Authentication  
 
 **Database:**  
-PostgreSQL,mySQL 
+PostgreSQL | MySQL  
 
-**Tools & IDEs:**  
-IntelliJ IDEA | Git | GitHub | Maven | Postman  
+**Tools:**  
+VS Code | Git | GitHub | Postman | npm  
 
 ---
 
 ## 🚀 Projects
 
-Here are some of my projects:
-
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Hospital Management System** | Web app for managing hospital data | Java, Spring Boot, Thymeleaf, PostgreSQL | [Repo](#) |
-| **Fitness tracking app** | REST API for an fitness tracking app | Java, Spring Boot, PostgreSQL | [Fitness App](#) |
-| **Diabetic Prediction** | Simple diabetic prediction app  | Machine Learning, Html,CSS<JavaScript | [Repo](#) |
-
-
+| Notes API | REST API for managing notes | Node.js, Express, PostgreSQL | [Repo](#) |
+| Fitness Tracker API | Backend system for fitness tracking | Node.js, Express, PostgreSQL | [Repo](#) |
+| Student Management System | Basic CRUD system using Java | Java, JDBC | [Repo](#) |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RubenShankar&show_icons=true&theme=radical" alt="Ruben's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RubenShankar&show_icons=true&theme=radical" />
 </p>
 
 ---
 
+## ⚡ Fun Facts
 
-
-
-## ⚡ Fun Facts About Me
-
-- ☕ Coffee fuels my coding sessions  
-- 🌱 Always exploring new frameworks, tools, and libraries  
-- 🎮 Passionate about gaming in my free time  
-- 🎤🎸 Can sing and play musical instruments  
-- 💪 Enjoy fitness and maintaining a healthy lifestyle  
-- 🤔 Always curious to learn new technologies  
-- 🚀 Motivated to build scalable and clean web applications
-
-)  
+- ☕ Coffee + coding = daily routine  
+- 🎮 Gaming in free time  
+- 🎧 Music lover  
+- 💪 Fitness enthusiast  
+- 🧠 Strong interest in backend architecture  
+- 🚀 Goal: Become a solid Backend Engineer (Java + Node.js)
 
