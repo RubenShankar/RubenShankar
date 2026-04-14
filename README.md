@@ -41,10 +41,9 @@ VS Code | Git | GitHub | Postman | npm
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| Fitness Tracking App | Backend system for tracking workouts and fitness data | Java, Spring Boot, PostgreSQL | [Repo](#) |
 | Notes API | REST API for managing notes | Node.js, Express, PostgreSQL | [Repo](#) |
-| Fitness Tracker API | Backend system for fitness tracking | Node.js, Express, PostgreSQL | [Repo](#) |
-| Student Management System | Basic CRUD system using Java | Java, JDBC | [Repo](#) |
-
+| Student Management System | Basic CRUD application for managing students | Java, JDBC | [Repo](#) |
 ---
 
 ## 📈 GitHub Stats
